@@ -9,5 +9,5 @@ Deepfake content has grown substantially, causing ethical and security concerns.
 ## Project Architecture
 The system applies DCT to extract features from the image’s frequency domain, which are then fed into a CNN model for classification.
 
-![Proposed Framework](/Images/Proposed_Framework.png)
+![Proposed Framework](/Images/ProposedFramework.png)
 ![Flowchart](/Images/Flowchart.png)
